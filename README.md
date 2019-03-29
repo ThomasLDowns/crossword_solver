@@ -1,7 +1,7 @@
 # crossword_solver
 Jupyter Python notebook to find solutions for monthly work crossword puzzle
 
-Program takes in a prettify-ed HML code block...
+Program takes in a prettify-ed HTML code block...
 - First portion scrapes the text file based on pre-determined indicators and extracts both the clues and the crossword letters.
 - Second portion goes through the keywords in order and scans the array of letters for a match to the first letter.
   Upon finding a match, it then looks in each of the 8 directions to see any match the second letter.
